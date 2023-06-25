@@ -11,5 +11,4 @@ Following the usual four-in-a-line rule:
   
   Win with four "1" or "2" aligned vertically, horizontally, or diagonally;
   
-
 Written with Java.
